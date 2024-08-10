@@ -12,8 +12,8 @@ Esta es una API simple que permite manejar cursos en una base de datos MongoDB.
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone https://github.com/johansantana/express-mongo-api
+   cd express-mongo-api
    ```
 
 2. **Instalar las dependencias:**
